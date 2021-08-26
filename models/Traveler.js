@@ -21,28 +21,4 @@ class Traveler {
 }
 
 module.exports = Traveler;
-/*
- *class Dog {
-   constructor(name, breed, isGoodBoy) {
-      this.name = name;
-      this.breed = breed;
-      this.isGoodBoy = isGoodBoy;
-   }
 
-   sit() {
-       // sitting code here
-   }
-}
-
-class GuardDog extends Dog {
-   constructor(name, breed, isGoodBoy, attackWord) {
-      super(name, breed, isGoodBoy)
-      this.attackWord = attackWord;
-   }
-
-   bark() {
-      // barking code here
-   }
-}
- *
- */
